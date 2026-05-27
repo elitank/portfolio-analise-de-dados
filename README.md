@@ -10,9 +10,7 @@ Aqui reúno meus principais projetos desenvolvidos com Python, SQL e outras ferr
 |----|--------------------------------------|--------------------------------------|---------|
 | 01 | [Probabilidade e Estatística](./01-probabilidade-e-estatistica/) | Python, Pandas, Matplotlib, Seaborn | Análise estatística completa com visualizações |
 | 02 | [Desafio Lighthouse - Ciência de Dados](./02-Desafio-Lighthouse-Ciencia-de-Dados/) | Python, Jupyter Notebook | Projeto do processo seletivo da Lighthouse/Indicium |
-| 03 | [Poke API + Web Scraping](./03-Poke-API---Web-Scraping/) | Python, Requests, BeautifulSoup, Pandas | Consumo de API + Web Scraping |
-| 04 | [Login Screen](./04-Login-Screen/) | Python, CustomTkinter, Pillow | Interface gráfica moderna de login |
-| 05 | [SQL Senac](./05-Sql-Senac/) | SQL | Exercícios e consultas SQL |
+| 03 | [SQL Senac](./03-Sql-Senac/) | SQL | Exercícios e consultas SQL |
 
 ---
 
