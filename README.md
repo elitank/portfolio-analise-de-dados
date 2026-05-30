@@ -1,12 +1,27 @@
-# Portfólio - Análise de Dados
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MedievalSharp&size=34&duration=4000&pause=50000&color=F29D0C&width=435&lines=Portf%C3%B3lio+-+An%C3%A1lise+de+dados+)](https://git.io/typing-svg)
 
-<img width="1280" height="300" alt="Design sem nome" src="https://github.com/user-attachments/assets/668d178f-a7c7-4a83-988e-7251deed284d" />
+[![Linkedin](https://img.shields.io/badge/Author-Ellen-F29D0C.svg)](https://www.linkedin.com/in/ellen-tank/)
 
-Bem-vindo ao meu portfólio de **Análise de Dados** e Ciência de Dados!  
+<img width="1280" height="300" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/64b13d36-4c0a-428f-b963-e62ba5845101" />
 
-Aqui reúno meus principais projetos desenvolvidos com Python, SQL e outras ferramentas de dados.
 
-## 🚀 Projetos
+
+Bem-vindo ao meu portfólio de **Análise de Dados**!  
+
+Sou Ellen, tenho 23 anos e estou em plena jornada de transição para a área de tecnologia. Aqui você encontra os projetos que venho construindo ao longo dos meus estudos, cada um representa um passo na minha evolução como Analista de dados.
+
+Aqui reúno meus principais projetos desenvolvidos nessa minha jornada. Abaixo você encontrará alguns de meus projetos mais recentes. 
+
+Fique à vontade!
+
+
+<div align="center">
+
+·:*¨༺ ♱✮♱ ༻¨*:·
+
+</div>
+
+## ♰ Projetos
 
 | Nº | Projeto                              | Tecnologias                          | Descrição |
 |----|--------------------------------------|--------------------------------------|---------|
@@ -16,7 +31,7 @@ Aqui reúno meus principais projetos desenvolvidos com Python, SQL e outras ferr
 
 ---
 
-## 🛠️ Tecnologias
+## ♰ Tecnologias
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Requests, BeautifulSoup)
 - **SQL** (MySQL / PostgreSQL)
@@ -24,16 +39,15 @@ Aqui reúno meus principais projetos desenvolvidos com Python, SQL e outras ferr
 - **Web Scraping** & APIs
 - **CustomTkinter** (interfaces gráficas)
 
-## 📌 Objetivo
+## ✴ Objetivo
 
 Demonstrar minhas habilidades em análise de dados, manipulação, visualização e coleta de dados através de projetos práticos.
 
-## 📫 Contato
+## ♱ Contato
 
-- **LinkedIn:** [Ellen-tank](https://www.linkedin.com/in/ellen-tank/)
+- [![Linkedin](https://img.shields.io/badge/Linkedin-EllenTank-F29D0C.svg)](https://www.linkedin.com/in/ellen-tank/)
 
-- **GitHub:** [elitank](https://github.com/elitank)
+- [![github](https://img.shields.io/badge/Github-elitank-F29D0C.svg)](https://github.com/elitank)
 
 ---
 
-Made with ❤️ in Brasília, DF
