@@ -1,5 +1,7 @@
 # Portfólio - Análise de Dados
 
+<img width="1280" height="300" alt="Design sem nome" src="https://github.com/user-attachments/assets/668d178f-a7c7-4a83-988e-7251deed284d" />
+
 Bem-vindo ao meu portfólio de **Análise de Dados** e Ciência de Dados!  
 
 Aqui reúno meus principais projetos desenvolvidos com Python, SQL e outras ferramentas de dados.
