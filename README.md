@@ -10,8 +10,6 @@ Bem-vindo ao meu portfólio de **Análise de Dados**!
 
 Sou Ellen, tenho 23 anos e estou em plena jornada de transição para a área de tecnologia. Aqui você encontra os projetos que venho construindo ao longo dos meus estudos, cada um representa um passo na minha evolução como Analista de dados.
 
-Aqui reúno meus principais projetos desenvolvidos nessa minha jornada. Abaixo você encontrará alguns de meus projetos mais recentes. 
-
 Fique à vontade!
 
 
@@ -33,7 +31,7 @@ Fique à vontade!
 
 ## ♰ Tecnologias
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Requests, BeautifulSoup)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Requests, BeautifulSoup, SciPy)
 - **SQL** (MySQL / PostgreSQL)
 - **Jupyter Notebooks**
 - **Web Scraping** & APIs
